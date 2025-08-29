@@ -85,28 +85,5 @@ const viloes = [
     },
 ];
 
-const universos = [
-    { 
-        id: 1, 
-        nome: "DC", 
-        editora: "DC Comics", 
-        fundacao: 1934,
-        sede: "Burbank, Califórnia"
-    },
-    { 
-        id: 2, 
-        nome: "Marvel", 
-        editora: "Marvel Comics", 
-        fundacao: 1939,
-        sede: "Nova York, Nova York"
-    },
-    { 
-        id: 3, 
-        nome: "Image", 
-        editora: "Image Comics", 
-        fundacao: 1992,
-        sede: "Portland, Oregon"
-    },
-];
 
 export default { herois, viloes, universos };
